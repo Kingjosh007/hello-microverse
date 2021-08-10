@@ -41,8 +41,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **King Josaphat Chewa (KJC)**
 
-- GitHub: [@githubhandle](https://github.com/Kingjosh007)
-- Twitter: [@twitterhandle](https://twitter.com/KingJoChewa)
+- GitHub: [@Kingjosh007](https://github.com/Kingjosh007)
+- Twitter: [@KingJoChewa](https://twitter.com/KingJoChewa)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/king-josaphat-chewa-aa154011b/)
 
 
